@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          We'll be launching solvix by the mids of 6th semester.
         </a>
       </header>
     </div>
